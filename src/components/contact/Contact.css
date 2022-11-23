@@ -1,0 +1,85 @@
+.ls_hd{
+    font-family: Montserrat;
+font-size: 20px;
+font-weight: 600;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 20px;
+
+}
+.left_section_contact{
+    width: 400px;
+}
+
+.ls_md{
+    font-family: Montserrat;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 20px;
+}
+
+.icon_ls_txt{
+    font-family: Montserrat;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 10px;
+
+}
+.icon_wrap_c{
+    display: flex;
+    margin-top: 20px;
+}
+.icon_ls_c{
+    font-size: 20px;
+    color: #14862e;
+}
+.icons_text{
+    margin-top: 40px;
+}
+
+.right_section_contact{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.input_field_c, .input_field_c_ta{
+    width: 320px;
+    padding: 15px;
+    background: rgba(251, 252, 253, 0.94);
+border: 1px solid #808285;
+border-radius: 10px;
+}
+
+
+.input_field_c_ta{
+    height: 100px;
+}
+
+.contact_sec{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.right_sec_btn{
+width: 150px;
+color: white;
+padding: 10px;
+background: #14862E;
+border-radius: 5px;
+}
+
+.right_sec_txt{
+    font-weight: bolder;
+    font-size: 20px;
+}

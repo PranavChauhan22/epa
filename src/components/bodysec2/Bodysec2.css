@@ -1,0 +1,91 @@
+.bodysec2_head{
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 46px;
+}
+
+.bodysec2_body1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    width: 327px;
+height: 81px;
+}
+.bodysec2_body2{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    width: 120px;
+height: 23px;
+
+}
+.bodysec2_body3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #070707;
+    width: 407px;
+height: 21px;
+    opacity: 0.5;
+}
+
+
+.bodysec2_card{
+    width: 407px;
+height: 223px;
+
+
+/* gray background */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background: #F6F6F6;
+margin: 30px;
+
+}
+.bodysec2_cards{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+}
+
+.bodysec2{
+    margin-top: 80px;
+}
+
+.liner2{
+    width: 40px;
+    height: 8px;
+    border-radius: 10px;
+    background-color: #14862e;
+    margin: 10px;
+}
+.liner1{
+    width: 20px;
+    height: 8px;
+    border-radius: 10px;
+    background-color: #14862e;
+}
+
+
+
+.liners{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

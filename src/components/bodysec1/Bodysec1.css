@@ -1,0 +1,54 @@
+
+.bodysec1{
+    margin-top: 100px;
+}
+
+@media screen and (max-width:880px) {
+    .bodysec1_head{
+        font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align:  center;
+    
+    }
+    
+    .bodysec1_body{
+        font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 333px;
+    margin: auto;
+    
+    
+    }
+    
+}
+@media screen and (min-width:880px) {
+    .bodysec1_head{
+        font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align:  center;
+    
+    }
+    
+    .bodysec1_body{
+        font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 833px;
+    margin: auto;
+    
+    }
+    
+}
